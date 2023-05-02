@@ -1,2 +1,3 @@
 # social
-https://github.com/medhuru/social
+
+https://medhuru.github.io/social/
